@@ -20,4 +20,4 @@ Desenvolvedora em formação, atualmente estou cursando **Análise e Desenvolvim
 
 ---
 
-🇧🇷 Possuo inglês à nível avançado e Excel à nível intermediário.
+Possuo inglês à nível avançado e Excel à nível intermediário.
