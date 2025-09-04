@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, me chamo Fabiana! 👋
 
-<!--
-**FabianaSanves/FabianaSanves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora em formação, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na FASAM e **Back-End Node.js** na IFG. Atuo como estagiária de suporte de TI e desenvolvimento na empresa UP380 (B-Office).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Disciplinas e tecnologias relevantes:
+- Node.js
+- Python
+- PHP
+- Laravel
+- Cloud computing ☁️
+- IOT ⚙️
+- Banco de Dados 💾
+- Big Data 📈
+- HTML
+- CSS
+- Java Script
+- Análise de Requisitos
+
+---
+
+🇧🇷 Possuo inglês à nível avançado e Excel à nível intermediário.
