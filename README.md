@@ -5,19 +5,19 @@ Desenvolvedora em formação, atualmente estou cursando **Análise e Desenvolvim
 ---
 
 ### 📚 Disciplinas e tecnologias relevantes:
-- Node.js
-- Python
-- PHP
-- Laravel
-- Cloud computing ☁️
-- IOT ⚙️
-- Banco de Dados 💾
-- Big Data 📈
-- HTML
-- CSS
-- Java Script
-- Análise de Requisitos
+- 🟢 Node.js
+- 🐍 Python
+- 🐘 PHP
+- 🚀 Laravel
+- ☁️ Cloud computing
+- ⚙️ IOT
+- 🗄️ Banco de Dados
+- 📊 Big Data
+- 🌐 HTML
+- 🎨 CSS
+- 💻 Java Script
+- 📝 Análise de Requisitos
 
 ---
 
-Possuo inglês à nível avançado e Excel à nível intermediário.
+🗣️ Possuo inglês à nível avançado e Excel à nível intermediário.
