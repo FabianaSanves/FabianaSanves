@@ -1,6 +1,6 @@
 # Olá, me chamo Fabiana! 👋
 
-Desenvolvedora em formação, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na FASAM e **Back-End Node.js** na IFG. Atuo como estagiária de suporte de TI e desenvolvimento na empresa UP380 (B-Office).
+Desenvolvedora em formação, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na FASAM e **Back-End Node.js** na IFG. Atuo como estagiária de suporte de TI e desenvolvimento no B-Office.
 
 ---
 
