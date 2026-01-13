@@ -43,5 +43,5 @@ Estas são algumas das tecnologias com as quais tenho trabalhado:
 **📂 [SGI - Sistema de Gestão de Itinerário](https://github.com/IasminCorregozinho/SGI-Sistema-de-gestao-de-itinerario)**
 > *Sistema de controle de ativos de TI e gestão de inventário.*
 * **Role:** Developer full stack
-* **Stack:** ![NodeJS](https://img.shields.io/badge/Node.js-tiny?logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-tiny?logo=typescript) ![SQL](https://img.shields.io/badge/SQL-tiny?logo=postgresql)
+* **Stack:** ![HTML5](https://img.shields.io/badge/HTML5-tiny?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-tiny?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-tiny?logo=javascript) ![NodeJS](https://img.shields.io/badge/Node.js-tiny?logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-tiny?logo=typescript) ![SQL](https://img.shields.io/badge/SQL-tiny?logo=postgresql)
 * **Status:** 🚀 Concluído (Fase 2)
