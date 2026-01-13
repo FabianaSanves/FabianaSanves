@@ -23,8 +23,9 @@ Estas são algumas das tecnologias com as quais tenho trabalhado:
 ## 📚 Atualmente Focando Em...
 
 -   **Desenvolvimento Back-End:** Com lógica de servidor, Java, Delphi, consumo de APIs, Node.js e TypeScript.
+-   **Desenvolvimento Front-End:** Com HTML, CSS e JS.
 -   **Análise de Requisitos:** Entendendo e definindo o escopo de projetos de software.
--   **Desenvolvimento Web:** Com HTML, CSS e JS.
+
 
 ---
 
