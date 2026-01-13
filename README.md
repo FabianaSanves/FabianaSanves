@@ -36,3 +36,12 @@ Estas são algumas das tecnologias com as quais tenho trabalhado:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiana%20Sanves-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabisanves/)
 [![GitHub](https://img.shields.io/badge/GitHub-FabianaSanves-181717?style=for-the-badge&logo=github)](https://github.com/FabianaSanves)
+
+
+### 🛠️ Projetos Recentes
+
+**📂 [SGI - Sistema de Gestão de Itinerário](https://github.com/IasminCorregozinho/SGI-Sistema-de-gestao-de-itinerario)**
+> *Sistema de controle de ativos de TI e gestão de inventário.*
+* **Role:** Developer full stack
+* **Stack:** ![NodeJS](https://img.shields.io/badge/Node.js-tiny?logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-tiny?logo=typescript) ![SQL](https://img.shields.io/badge/SQL-tiny?logo=postgresql)
+* **Status:** 🚀 Concluído (Fase 2)
